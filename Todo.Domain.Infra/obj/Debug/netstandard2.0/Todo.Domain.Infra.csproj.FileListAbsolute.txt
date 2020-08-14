@@ -1,0 +1,12 @@
+/home/vitinho/Course/todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.Infra.deps.json
+/home/vitinho/Course/todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.Infra.dll
+/home/vitinho/Course/todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.Infra.pdb
+/home/vitinho/Course/todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csprojAssemblyReference.cache
+/home/vitinho/Course/todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+/home/vitinho/Course/todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.AssemblyInfoInputs.cache
+/home/vitinho/Course/todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.AssemblyInfo.cs
+/home/vitinho/Course/todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.dll
+/home/vitinho/Course/todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.pdb
+/home/vitinho/Course/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.dll
+/home/vitinho/Course/Todo/Todo.Domain.Infra/bin/Debug/netstandard2.0/Todo.Domain.pdb
+/home/vitinho/Course/Todo/Todo.Domain.Infra/obj/Debug/netstandard2.0/Todo.Domain.Infra.csproj.CopyComplete

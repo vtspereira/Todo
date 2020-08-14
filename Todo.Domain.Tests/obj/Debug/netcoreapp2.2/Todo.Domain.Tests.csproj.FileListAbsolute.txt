@@ -1,0 +1,17 @@
+/home/vitinho/Course/todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/vitinho/Course/todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/vitinho/Course/todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/vitinho/Course/todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Todo.Domain.Tests.deps.json
+/home/vitinho/Course/todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Todo.Domain.Tests.runtimeconfig.json
+/home/vitinho/Course/todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Todo.Domain.Tests.runtimeconfig.dev.json
+/home/vitinho/Course/todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Todo.Domain.Tests.dll
+/home/vitinho/Course/todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Todo.Domain.Tests.pdb
+/home/vitinho/Course/todo/Todo.Domain.Tests/obj/Debug/netcoreapp2.2/Todo.Domain.Tests.csprojAssemblyReference.cache
+/home/vitinho/Course/todo/Todo.Domain.Tests/obj/Debug/netcoreapp2.2/Todo.Domain.Tests.csproj.CoreCompileInputs.cache
+/home/vitinho/Course/todo/Todo.Domain.Tests/obj/Debug/netcoreapp2.2/Todo.Domain.Tests.AssemblyInfoInputs.cache
+/home/vitinho/Course/todo/Todo.Domain.Tests/obj/Debug/netcoreapp2.2/Todo.Domain.Tests.AssemblyInfo.cs
+/home/vitinho/Course/todo/Todo.Domain.Tests/obj/Debug/netcoreapp2.2/Todo.Domain.Tests.dll
+/home/vitinho/Course/todo/Todo.Domain.Tests/obj/Debug/netcoreapp2.2/Todo.Domain.Tests.pdb
+/home/vitinho/Course/Todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Todo.Domain.dll
+/home/vitinho/Course/Todo/Todo.Domain.Tests/bin/Debug/netcoreapp2.2/Todo.Domain.pdb
+/home/vitinho/Course/Todo/Todo.Domain.Tests/obj/Debug/netcoreapp2.2/Todo.Domain.Tests.csproj.CopyComplete

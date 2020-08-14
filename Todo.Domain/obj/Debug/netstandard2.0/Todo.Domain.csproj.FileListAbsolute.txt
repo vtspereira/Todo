@@ -1,0 +1,9 @@
+/home/vitinho/Course/todo/Todo.Domain/bin/Debug/netstandard2.0/Todo.Domain.deps.json
+/home/vitinho/Course/todo/Todo.Domain/bin/Debug/netstandard2.0/Todo.Domain.dll
+/home/vitinho/Course/todo/Todo.Domain/bin/Debug/netstandard2.0/Todo.Domain.pdb
+/home/vitinho/Course/todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.csprojAssemblyReference.cache
+/home/vitinho/Course/todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.csproj.CoreCompileInputs.cache
+/home/vitinho/Course/todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.AssemblyInfoInputs.cache
+/home/vitinho/Course/todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.AssemblyInfo.cs
+/home/vitinho/Course/todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.dll
+/home/vitinho/Course/todo/Todo.Domain/obj/Debug/netstandard2.0/Todo.Domain.pdb
